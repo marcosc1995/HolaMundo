@@ -33,10 +33,50 @@ namespace HolaMundo
             //}
 
             // EJERCICIO 2 
+
             //string testString = "69";
             //int valorDeTest;
             //bool test = int.TryParse(testString, out valorDeTest);
             //Console.WriteLine(valorDeTest);
+            //Console.Read();
+
+            //EJERCICIO 3
+
+            //int autos = 5;
+
+            //if (autos == 0)
+            //{
+            //    Console.WriteLine("Usted no paga impuestos");
+            //}
+            //else if(autos == 1)
+            //{
+            //    Console.WriteLine("Usted paga $15");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Usted paga $15 por cada auto");
+            //}
+            //Console.Read();
+
+            //EJERCICIO 4
+
+            //string piedraPapelTijera = "Papel";
+
+            //switch (piedraPapelTijera)
+            //{
+            //    case "Piedra":
+            //        Console.WriteLine("Piedra mata a Tijera");
+            //        break;
+            //    case "Papel":
+            //        Console.WriteLine("Papel mata a Piedra");
+            //        break;
+            //    case "Tijera":
+            //        Console.WriteLine("Tijera mata a Papel");
+            //        break;
+            //    default: Console.WriteLine("Ese elemento no juega");
+            //        break;
+                       
+            //}
             //Console.Read();
             
         }
