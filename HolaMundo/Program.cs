@@ -7,7 +7,7 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola mundo");
+            //Console.WriteLine("hola mundo");
             int resultado = Suma(20, 35);
             Console.WriteLine(resultado);
             int number = 69;
